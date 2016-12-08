@@ -1,0 +1,9 @@
+C:\Users\Hitech95\Desktop\Esercitazione2\Esercitazione\bin\Debug\Correttore.exe
+C:\Users\Hitech95\Desktop\Esercitazione2\Esercitazione\bin\Debug\Esercitazione.XML
+C:\Users\Hitech95\Desktop\Esercitazione2\Esercitazione\bin\Debug\Esercitazione.exe
+C:\Users\Hitech95\Desktop\Esercitazione2\Esercitazione\bin\Debug\Esercitazione.pdb
+C:\Users\Hitech95\Desktop\Esercitazione2\Esercitazione\bin\Debug\FSharp.Core.dll
+C:\Users\Hitech95\Desktop\Esercitazione2\Esercitazione\bin\Debug\FSharp.Core.xml
+C:\Users\Hitech95\Desktop\Esercitazione2\Esercitazione\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\Hitech95\Desktop\Esercitazione2\Esercitazione\obj\Debug\Esercitazione.exe
+C:\Users\Hitech95\Desktop\Esercitazione2\Esercitazione\obj\Debug\Esercitazione.pdb
